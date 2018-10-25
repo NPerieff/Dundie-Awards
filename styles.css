@@ -1,0 +1,56 @@
+h2 {
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+p {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.size {
+    width: 50%;
+    height:50%;
+}
+body {
+    background-color: #77ff70;
+}
+.font {
+    color: #ff00fb;
+    text-shadow: 4px 4px #98209e;
+}
+img {
+   padding:1px;
+   background-color:#77ff70;
+}
+.shdw {
+    color: #ff00fb;
+    text-shadow: 3px 3px #98209e;
+}
+.img1 {
+    border:3px solid #ff000d;
+}
+.img2 {
+
+    padding: 1px;
+    border-width: 6px;
+    border-color: red;
+    border-style: dotted dashed solid double;
+}
+.img3 {
+    padding: 0px;
+    border: 10px inset red;
+}
+.img4 {
+    padding: 0px;
+    border: 10px double red;
+}
